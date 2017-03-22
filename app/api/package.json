@@ -1,0 +1,22 @@
+{
+  "name": "pogo-api",
+  "version": "1.0.0",
+  "description": "react intro app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "brendan quinn",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "firebase": "^3.6.10",
+    "firebase-admin": "^4.1.1",
+    "firebase-auth": "^0.1.2",
+    "s2-geometry": "^1.2.9",
+    "uuid": "^3.0.1"
+  }
+}
